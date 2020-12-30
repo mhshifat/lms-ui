@@ -4,7 +4,7 @@ A simple library management system.
 
 ### Demo Link
 
-link: [https://lms-dev-api.herokuapp.com/](https://lms-dev-api.herokuapp.com/)
+link: [https://lms-ui.netlify.app/](https://lms-ui.netlify.app/)
 
 ### Technologies Used
 
